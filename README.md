@@ -6,7 +6,7 @@ A Python-based educational project developed as an undergraduate Computer Engine
 
 This project explores house price estimation using property-related information and a Streamlit-based interactive interface.
 
-The project was developed for academic and learning purposes.
+It was developed as an undergraduate project for academic and learning purposes.
 
 ## Technologies Used
 
@@ -29,11 +29,11 @@ Borujerd-House-Price-Prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Borujerd-House-Price-Prediction.git
+git clone https://github.com/MrKm81/Borujerd-House-Price-Prediction.git
 cd Borujerd-House-Price-Prediction
 ```
 
-Install dependencies:
+Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -53,6 +53,6 @@ This is an educational prototype. Its price estimates should not be treated as v
 
 ## Author
 
-Mohammadreza Karimi
+**Mohammadreza Karimi** ([@MrKm81](https://github.com/MrKm81))
 
 Undergraduate Computer Engineering Project
